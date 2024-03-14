@@ -1,0 +1,8 @@
+venv
+yolov7/yolov7/*
+cameraman-*
+yolov5/yolov5/*
+*.pt
+yolact/yolact/*
+*.pth
+oneformer/OneFormer/*
